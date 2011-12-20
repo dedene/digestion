@@ -7,5 +7,5 @@ Gem::Specification.new do |s|
   s.authors = ["Sam Pohlenz"]
   s.email = "sam@sampohlenz.com"
   
-  s.add_dependency "actionpack", "=> 3.1.0"
+  s.add_dependency "actionpack", ">= 3.1.0"
 end
